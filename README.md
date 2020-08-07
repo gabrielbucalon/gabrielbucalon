@@ -1,16 +1,13 @@
-### Hi there 👋
+# Gabriel Bucalon :man_technologist
 
-<!--
-**gabrielbucalon/gabrielbucalon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Helloo! 👋 Welcome to my profile =)
 
-Here are some ideas to get you started:
+My name is Gabriel and ...:
+ - I really like to learn 📔
+ - Front-end developer at @dextra 🏢
+ - I love to play videogames and listen to music 🎮 🎼
+ - Travels <3 🏞 🌌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Linkedin Badge](https://www.linkedin.com/in/bucalongabriel/)
+[![Twitter Badge](https://twitter.com/GabrielBuccalon)
