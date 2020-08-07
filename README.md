@@ -1,4 +1,4 @@
-# Gabriel Bucalon :man_technologist
+# Gabriel Bucalon 👨🏻‍💻
 
 ### Helloo! 👋 Welcome to my profile =)
 
