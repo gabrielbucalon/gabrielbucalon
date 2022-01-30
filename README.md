@@ -4,7 +4,7 @@
 
 My name is Gabriel and ...:
  - I really like to learn 📔
- - Front-end developer at @dextra 🏢
+ - Front-end developer at @ci&t 🏢
  - I love to play videogames and listen to music 🎮 🎼
  - Travels <3 🏞 🌌
 
